@@ -1,67 +1,62 @@
-# Hi there 👋, I'm Tayyab Mushtaq
+<div>
 
-### 🚀 Full-Stack MERN Developer | Next.js Specialist | Software Engineer
+# 😎 Hey! Nice to see you.
 
-I'm a passionate software engineer from Pakistan with experience building scalable web applications using modern technologies. I enjoy solving complex problems and creating clean, user-friendly solutions.
+Welcome to my page!
+I'm **Tayyab Mushtaq**, a Full Stack Developer from 🇵🇰 Pakistan.
 
----
+### 🚀 About Me
 
-## 💻 Tech Stack
+* 💻 MERN Stack Developer
+* ⚡ Building scalable web applications with Next.js
+* 🌱 Currently learning System Design & Microservices
+* ☁️ Exploring AWS and DevOps
+* 🤝 Open to collaborations and freelance projects
 
-### Frontend
+## Things I code with
 
-* React.js
-* Next.js
-* TypeScript
-* JavaScript (ES6+)
-* Tailwind CSS
-* Material UI
-* Redux Toolkit
-
-### Backend
-
-* Node.js
-* Express.js
-* REST APIs
-* Prisma ORM
-* JWT Authentication
-
-### Database
-
-* PostgreSQL
-* MySQL
-* MongoDB
-
-### DevOps & Tools
-
-* Docker
-* Git & GitHub
-* Linux
-* AWS EC2
-* Nginx
-* Postman
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 
 ---
 
-## 🚀 What I Do
+## 📈 GitHub Stats
 
-* Build modern full-stack web applications
-* Develop secure APIs and authentication systems
-* Design scalable database architectures
-* Deploy applications on cloud servers
-* Optimize performance and user experience
-* System Design
-* Microservices Architecture
-* Cloud Infrastructure (AWS)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Where to find me
 
-* LinkedIn: https://www.linkedin.com/in/tayyab-mushtaq-13925a142/
-* Portfolio: [https://yourwebsite.com](https://tayyab-mushtaq.vercel.app/)
-* Email: [your-email@example.com](mailto:tayyabmushtaq15@gmail.com)
+
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/tayyab-mushtaq-13925a142/)">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:tayyabmushtaq15@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail">
+</a>
 
 ---
 
-⭐ Always open to collaborating on exciting projects and opportunities!
+### ⚡ Fun Fact
+
+> I love building products, learning new technologies, and turning ideas into reality.
+
+</div>
