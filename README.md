@@ -1,54 +1,105 @@
-<div>
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hey! Nice to see you.
+</h1>
 
-# 😎 Hey! Nice to see you.
+<p>
+Welcome to my page! <br>
+I'm <b>Tayyab Mushtaq</b>, Full Stack Developer from 🇵🇰 <b>Pakistan</b>
+</p>
 
-Welcome to my page!
-I'm **Tayyab Mushtaq**, a Full Stack Developer from 🇵🇰 Pakistan.
+<h3>🚀 About Me</h3>
 
-### 🚀 About Me
+<ul>
+<li>💻 MERN Stack Developer</li>
+<li>⚡ Building scalable web applications with Next.js</li>
+<li>🌱 System Design & Microservices</li>
+<li>☁️ AWS and DevOps</li>
+<li>🤝 Open to collaborations and freelance projects</li>
+</ul>
 
-* 💻 MERN Stack Developer
-* ⚡ Building scalable web applications with Next.js
-* 🌱 System Design & Microservices
-* ☁️ AWS and DevOps
-* 🤝 Open to collaborations and freelance projects
+<h3>Things I code with</h3>
 
-## Things I code with
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+<p>
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
+<img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## 🌐 Where to find me
+<h3>📊 GitHub Stats</h3>
 
+<p>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tayyabmushtaq15&show_icons=true&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabmushtaq15&layout=compact&theme=tokyonight" />
+</p>
 
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/tayyab-mushtaq-13925a142/)">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin">
+---
+
+<h3>🔥 GitHub Streak</h3>
+
+<p>
+<img src="https://streak-stats.demolab.com?user=tayyabmushtaq15&theme=tokyonight" />
+</p>
+
+---
+
+<h3>🏆 GitHub Trophies</h3>
+
+<p>
+<img src="https://github-profile-trophy.vercel.app/?username=tayyabmushtaq15&theme=tokyonight&margin-w=15" />
+</p>
+
+---
+
+<h3>📈 Contribution Graph</h3>
+
+<p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabmushtaq15&theme=tokyo-night" />
+</p>
+
+---
+
+<h3>🌐 Where to find me</h3>
+
+<p>
+<a href="https://github.com/tayyabmushtaq15" target="_blank">
+<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tayyab-mushtaq-13925a142/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:tayyabmushtaq15@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
 
 ---
 
-### ⚡ Fun Fact
+<h3>⚡ Fun Fact</h3>
 
-> I love building products, learning new technologies, and turning ideas into reality.
+<p>
+I love building products, solving problems, and turning ideas into scalable applications. I'm always learning new technologies and striving to become a better engineer every day.
+</p>
 
-</div>
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=tayyabmushtaq15&style=flat-square&color=blue" />
+</p>
