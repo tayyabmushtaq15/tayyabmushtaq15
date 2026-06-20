@@ -9,8 +9,8 @@ I'm **Tayyab Mushtaq**, a Full Stack Developer from 🇵🇰 Pakistan.
 
 * 💻 MERN Stack Developer
 * ⚡ Building scalable web applications with Next.js
-* 🌱 Currently learning System Design & Microservices
-* ☁️ Exploring AWS and DevOps
+* 🌱 System Design & Microservices
+* ☁️ AWS and DevOps
 * 🤝 Open to collaborations and freelance projects
 
 ## Things I code with
