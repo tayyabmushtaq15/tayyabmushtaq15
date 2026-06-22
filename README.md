@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Engineer;Next.js+Developer;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Engineer;Next.js+Developer;Always+Learning+New+Things&center=true&width=500&height=50" alt="Typing SVG" />
 </p>
 
 <h1>
@@ -44,23 +44,21 @@ I'm <b>Tayyab Mushtaq</b>, Full Stack Developer from 🇵🇰 <b>Pakistan</b>
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
----
-
 <h3>📊 GitHub Stats</h3>
-
-<p>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tayyabmushtaq15&show_icons=true&theme=tokyonight" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabmushtaq15&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tayyabmushtaq15&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabmushtaq15&layout=compact&theme=tokyonight" />
 </p>
 
+<h3>📈 Contribution Graph</h3>
 
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tayyabmushtaq15&theme=github-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabmushtaq15&theme=github-dark"/>
+</p>
 
 <h3>🌐 Where to find me</h3>
 
-<p>
+<p align="center">
 <a href="https://github.com/tayyabmushtaq15" target="_blank">
 <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white"/>
 </a>
@@ -74,16 +72,10 @@ I'm <b>Tayyab Mushtaq</b>, Full Stack Developer from 🇵🇰 <b>Pakistan</b>
 </a>
 </p>
 
----
-
 <h3>⚡ Fun Fact</h3>
-
 <p>
 I love building products, solving problems, and turning ideas into scalable applications. I'm always learning new technologies and striving to become a better engineer every day.
 </p>
-
----
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=tayyabmushtaq15&style=flat-square&color=blue" />
 </p>
