@@ -4,7 +4,7 @@
 </h1>
 
 <p>
-Welcome to my page! <br>
+Welcome to my profile! <br>
 I'm <b>Tayyab Mushtaq</b>, Full Stack Developer from 🇵🇰 <b>Pakistan</b>
 </p>
 
