@@ -48,28 +48,11 @@ I'm <b>Tayyab Mushtaq</b>, Full Stack Developer from 🇵🇰 <b>Pakistan</b>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabmushtaq15&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-<h3>🔥 GitHub Streak</h3>
-
-<p>
-<img src="https://streak-stats.demolab.com?user=tayyabmushtaq15&theme=tokyonight" />
-</p>
-
----
-
-<h3>🏆 GitHub Trophies</h3>
+<h3>📈 GitHub Streak</h3>
 
 <p>
-<img src="https://github-profile-trophy.vercel.app/?username=tayyabmushtaq15&theme=tokyonight&margin-w=15" />
-</p>
-
----
-
-<h3>📈 Contribution Graph</h3>
-
-<p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabmushtaq15&theme=tokyo-night" />
+<img src="https://streak-stats.demolab.com?username=tayyabmushtaq15&theme=tokyonight" />
 </p>
 
 ---
