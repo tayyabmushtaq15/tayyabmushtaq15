@@ -49,13 +49,9 @@ I'm <b>Tayyab Mushtaq</b>, Full Stack Developer from 🇵🇰 <b>Pakistan</b>
 </p>
 
 
-<h3>📈 GitHub Streak</h3>
+## 📈 Contribution Graph
 
-<p>
-<img src="https://streak-stats.demolab.com?username=tayyabmushtaq15&theme=tokyonight" />
-</p>
-
----
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tayyabmushtaq15&theme=github-dark)
 
 <h3>🌐 Where to find me</h3>
 
