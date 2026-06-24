@@ -72,7 +72,7 @@ I'm <b>Tayyab Mushtaq</b>, Full Stack Developer from 🇵🇰 <b>Pakistan</b>
 </a>
 </p>
 
-<h3>⚡ Fun Fact</h3>
+<h3>Fun Fact</h3>
 <p>
 I love building products, solving problems, and turning ideas into scalable applications. I'm always learning new technologies and striving to become a better engineer every day.
 </p>
